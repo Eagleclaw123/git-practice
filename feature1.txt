@@ -1,1 +1,2 @@
 this file exists in feature1
+creating a merge conflict from feature2
