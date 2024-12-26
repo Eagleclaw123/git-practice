@@ -1,2 +1,2 @@
 this file exists in feature1 
-merge conflict from feature 1
+merge conflict from feature1
